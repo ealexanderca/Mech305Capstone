@@ -19,5 +19,5 @@ A script that
 5. calculates the steady state stress decay percentage of each material.
 6. ranks the materials based on their steady state force.
 
-##rankttest.m
+## rankttest.m
 A script that completes multiple T-tests on a set of samples to determine which ones rank higher and whether you can tell them apart.
