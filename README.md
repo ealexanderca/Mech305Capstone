@@ -4,7 +4,7 @@ This is a repository that contains all the scripts and raw data from my 305 Caps
 ## LoadCellDAQ.ino
 Arduino code that reads the force from the loadcell and sends it to the computer. modify this if using a different arduino or load cell system.
 
-## Data_Recording.m
+## Data_Recorder.m
 This script opens a UI that allows the user to tare, start and stop data recording, plot the force, and calculate the average slope at any point to determine instantaneous stress relaxation rate.
 
 ## port.m
