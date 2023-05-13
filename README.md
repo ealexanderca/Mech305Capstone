@@ -1,5 +1,5 @@
 # Mech305Capstone
-This is a repository that contains all the scripts and raw data from my 305 Capstone Project. The CAD folder contains the drawings of our proposed tension machine and the filament clamping plates. for more infromation refer to my post about it on my [website](ealexander.ca)
+This is a repository that contains all the scripts and raw data from my 305 Capstone Project. The CAD folder contains the drawings of our proposed tension machine and the filament clamping plates. for more infromation refer to my post about it on my [website](https://ealexander.ca/Mech305Capstone)
 
 ## LoadCellDAQ.ino
 Arduino code that reads the force from the loadcell and sends it to the computer. modify this if using a different arduino or load cell system.
